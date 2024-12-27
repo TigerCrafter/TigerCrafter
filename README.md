@@ -1,16 +1,26 @@
-## Hi there 👋
+Hii 👋
 
-<!--
-**TigerCrafter/TigerCrafter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👤About me👤
 
-Here are some ideas to get you started:
+- 📚Learning📚
+  - ☕Java☕
+  - (🐍Python🐍)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⭐Helping⭐
+  - [@NoRiskClient](https://github.com/NoRiskClient) (BugHunter 🐛)
+  - [@HGLabor](https://github.com/HGLabor) (Trial Moderator👮)
+
+- 📝Infos📝
+  - Gender: Male ♂️
+  - Age: [Private 🔒]
+  - Name: [Private 🔒]
+
+- 📫Contact📫
+  - Discord: [TigerCrafter](https://discord.com/users/1213476183614824498)
+
+- 💪Working on💪
+  - Nothing because I'm currently learning Java basics
+
+- ⚡Fun Facts⚡
+  - I like 🐯Tigers🐯
+  - My favorite game is ✨Minecraft✨
