@@ -8,7 +8,7 @@ Hii 👋
 
 - ⭐Helping⭐
   - [@NoRiskClient](https://github.com/NoRiskClient) (BugHunter 🐛)
-  - [@HGLabor](https://github.com/HGLabor) (Trial Moderator👮)
+  - [@HGLabor](https://github.com/HGLabor) (Moderator👮)
 
 - 📝Infos📝
   - Gender: Male ♂️
