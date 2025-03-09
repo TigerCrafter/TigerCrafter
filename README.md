@@ -7,8 +7,9 @@ Hii 👋
   - (🐍Python🐍)
 
 - ⭐Helping⭐
+  - [@GoatClient](https://github.com/GoatClient) (Co-Owner 🚨)
+  - [@HGLabor](https://github.com/HGLabor) (Moderator 👮)
   - [@NoRiskClient](https://github.com/NoRiskClient) (BugHunter 🐛)
-  - [@HGLabor](https://github.com/HGLabor) (Moderator👮)
 
 - 📝Infos📝
   - Gender: Male ♂️
@@ -19,7 +20,7 @@ Hii 👋
   - Discord: [TigerCrafter](https://discord.com/users/1213476183614824498)
 
 - 💪Working on💪
-  - Nothing because I'm currently learning Java basics
+  - GoatClient
 
 - ⚡Fun Facts⚡
   - I like 🐯Tigers🐯
