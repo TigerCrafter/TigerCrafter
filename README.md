@@ -4,10 +4,11 @@ Hii 👋
 
 - 📚Learning📚
   - ☕Java☕
-  - (🐍Python🐍)
+  - (Kotlin)
+  - Want to learn 🐍Python🐍
 
 - ⭐Helping⭐
-  - [@GoatClient](https://github.com/GoatClient) (Co-Owner 🚨)
+  - [@TigerClient](https://github.com/TigerClientMC) (Admin (Owner) 🚨)
   - [@HGLabor](https://github.com/HGLabor) (Moderator 👮)
   - [@NoRiskClient](https://github.com/NoRiskClient) (BugHunter 🐛)
 
@@ -20,7 +21,7 @@ Hii 👋
   - Discord: [TigerCrafter](https://discord.com/users/1213476183614824498)
 
 - 💪Working on💪
-  - GoatClient
+  - TigerClient
 
 - ⚡Fun Facts⚡
   - I like 🐯Tigers🐯
